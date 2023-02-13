@@ -1,0 +1,5 @@
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\Debug\DrawText v10.0.csprojAssemblyReference.cache
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\Debug\DrawText_v10._0.Form1.resources
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\Debug\DrawText_v10._0.Properties.Resources.resources
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\Debug\DrawText v10.0.csproj.GenerateResource.cache
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\Debug\DrawText v10.0.csproj.CoreCompileInputs.cache

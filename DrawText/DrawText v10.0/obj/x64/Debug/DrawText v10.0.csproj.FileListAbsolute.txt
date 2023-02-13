@@ -1,0 +1,95 @@
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_firmware_upgrade.dll
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_pro.dll
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.EyeX.Client.dll
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_stream_engine.dll
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.exe.config
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.exe
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.pdb
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Interaction.Model.dll
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Interaction.Net.dll
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Research.dll
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Research.xml
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csprojAssemblyReference.cache
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText_v10._0.Form1.resources
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText_v10._0.Properties.Resources.resources
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.GenerateResource.cache
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.CoreCompileInputs.cache
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.CopyComplete
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.exe
+C:\Users\Rong\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.pdb
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_firmware_upgrade.dll
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_pro.dll
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.EyeX.Client.dll
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_stream_engine.dll
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.exe.config
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.exe
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.pdb
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Interaction.Model.dll
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Interaction.Net.dll
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Research.dll
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Research.xml
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csprojAssemblyReference.cache
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText_v10._0.Form1.resources
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText_v10._0.Properties.Resources.resources
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.GenerateResource.cache
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.CoreCompileInputs.cache
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.CopyComplete
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.exe
+C:\Users\terum\Desktop\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.pdb
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_firmware_upgrade.dll
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_pro.dll
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.EyeX.Client.dll
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_stream_engine.dll
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.exe.config
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.exe
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.pdb
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Interaction.Model.dll
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Interaction.Net.dll
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Research.dll
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Research.xml
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csprojAssemblyReference.cache
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText_v10._0.Form1.resources
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText_v10._0.Properties.Resources.resources
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.GenerateResource.cache
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.CoreCompileInputs.cache
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.CopyComplete
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.exe
+C:\Users\terum\Desktop\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.pdb
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_firmware_upgrade.dll
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_pro.dll
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.EyeX.Client.dll
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\tobii_stream_engine.dll
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.exe.config
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.exe
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.pdb
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Interaction.Model.dll
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Interaction.Net.dll
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Research.dll
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\bin\x64\Debug\Tobii.Research.xml
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csprojAssemblyReference.cache
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText_v10._0.Form1.resources
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText_v10._0.Properties.Resources.resources
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.GenerateResource.cache
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.CoreCompileInputs.cache
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.CopyComplete
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.exe
+D:\作業\眼動儀\DrawText\DrawText v11\DrawText v10.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.pdb
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\bin\x64\Debug\tobii_firmware_upgrade.dll
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\bin\x64\Debug\tobii_pro.dll
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\bin\x64\Debug\Tobii.EyeX.Client.dll
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\bin\x64\Debug\tobii_stream_engine.dll
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.exe.config
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.exe
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\bin\x64\Debug\DrawText v10.0.pdb
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\bin\x64\Debug\Tobii.Interaction.Model.dll
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\bin\x64\Debug\Tobii.Interaction.Net.dll
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\bin\x64\Debug\Tobii.Research.dll
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\bin\x64\Debug\Tobii.Research.xml
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csprojAssemblyReference.cache
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\obj\x64\Debug\DrawText_v10._0.Form1.resources
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\obj\x64\Debug\DrawText_v10._0.Properties.Resources.resources
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.GenerateResource.cache
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.CoreCompileInputs.cache
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.csproj.CopyComplete
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.exe
+D:\作業\眼動儀\DrawText\DrawText v10\DrawText v11.0\DrawText v10.0\obj\x64\Debug\DrawText v10.0.pdb
